@@ -9,4 +9,4 @@ then
   touch $WERCKER_CACHE_DIR/wercker/aptupdated;  
 fi
 
-sudo apt-get install -y ansible python-simplejson
+sudo apt-get install -y ansible python-simplejson python-keyczar
