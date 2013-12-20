@@ -1,0 +1,7 @@
+name: ansible-install
+version: 0.0.1
+description: Installs Ansible for you
+keywords:
+    - configuration
+    - ansible
+    - ansible-playbook
